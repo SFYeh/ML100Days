@@ -1,4 +1,6 @@
 # ML100Days
 NLP Machine learning
 
-## D01 Python 文字處理函數介紹
+## D01-D04 Python NLP程式基礎
+- 字串處理
+- 正規表達式
