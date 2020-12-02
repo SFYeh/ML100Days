@@ -7,6 +7,7 @@ NLP Machine learning
 
 ### D1 HW
 - .tsv ：以t作為分隔符的檔案，可以用 pd.read_csv('檔名',set='\t')開啟，存成df
+- 使用 df.values 取出值存成list
 - 計算有多少個句子是以 . 結尾
 - 將所有. 換成 ,
 - 將所有sentence 中的第一個 the 置換成 The
