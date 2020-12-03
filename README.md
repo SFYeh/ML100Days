@@ -21,3 +21,5 @@ NLP Machine learning
 - 運用formatting 技巧 output
   - `'{:.2f}%'.format(98.12452)` --> 98.12%
   - `'{:.2%}'.format(0.9812452)` --> 98.12%
+  - '{:0<10f}'.format(3.1415926)` --> 3.141592300
+  
