@@ -16,6 +16,7 @@ NLP Machine learning
 
 ### D2 HW
 - 計算numeric, digit, decimal 各有幾個
-  - ` getattr(x, 'foobar')` is equivalent to x.foobar
+  - 補充函數： ` getattr(x, 'foobar')` is equivalent to `x.foobar`
+  -  `getattr('qqq','upper')()` --> output：'QQQ'
 - 運用formatting 技巧 output
 - 轉換 number output format
