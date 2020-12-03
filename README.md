@@ -13,3 +13,9 @@ NLP Machine learning
 - 將所有sentence 中的第一個 the 置換成 The
 - 將偶數句子全部轉換為大寫，基數句子全部轉換為小寫
 - 將所有句子合併在一起，並以' / ' 為間隔
+
+### D2 HW
+- 計算numeric, digit, decimal 各有幾個
+  - ` getattr(x, 'foobar')` is equivalent to x.foobar
+- 運用formatting 技巧 output
+- 轉換 number output format
