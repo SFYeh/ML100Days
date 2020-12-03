@@ -19,4 +19,5 @@ NLP Machine learning
   - 補充函數： ` getattr(x, 'foobar')` is equivalent to `x.foobar`
   -  `getattr('qqq','upper')()` --> output：'QQQ'
 - 運用formatting 技巧 output
-- 轉換 number output format
+  - `'{:.2f}%'.format(98.12452)` --> 98.12%
+  - `'{:.2%}'.format(0.9812452)` --> 98.12%
