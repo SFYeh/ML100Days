@@ -3,7 +3,7 @@ NLP Machine learning
 
 ## D01-D04 Python NLP程式基礎
 - 字串處理
-- 正規表達式
+- 正規表達式 ([練習用網站:regex101](https://regex101.com/))
 
 ### D1 HW
 - .tsv ：以t作為分隔符的檔案，可以用 pd.read_csv('檔名',set='\t')開啟，存成df
@@ -23,3 +23,10 @@ NLP Machine learning
   - `'{:.2%}'.format(0.9812452)` --> 98.12%
   - `{:0<10f}'.format(3.1415926)` --> 3.141592300
   
+### D3
+- 電話號碼配對
+- 身分證字號配對
+- 電子郵件配對 
+- HTML格式配對
+- 特定檔案名稱與格式配對
+- URL配對
