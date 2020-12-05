@@ -23,10 +23,17 @@ NLP Machine learning
   - `'{:.2%}'.format(0.9812452)` --> 98.12%
   - `{:0<10f}'.format(3.1415926)` --> 3.141592300
   
-### D3  
+### D3  HW
+Regex 101
 - 電話號碼配對
 - 身分證字號配對
 - 電子郵件配對 
 - HTML格式配對
 - 特定檔案名稱與格式配對
 - URL配對
+
+### D4 HW
+Python regex
+- [詐欺郵件文本資料](https://www.kaggle.com/rtatman/fraudulent-email-corpus/data)清洗與處理的操作
+- 電子信箱中的寄件機構資訊
+- 所有寄件者與收件者 姓名、地址、信件日期、信件主旨、信件內文 (dictionary--> list --> dataframe)
