@@ -1,6 +1,9 @@
 # ML100Days
 NLP Machine learning
 
+## Projects
+
+---
 ## D01-D04 Python NLP程式基礎
 - 字串處理
 - 正規表達式 ([練習用網站:regex101](https://regex101.com/))
@@ -37,3 +40,17 @@ Python regex
 - [詐欺郵件文本資料](https://www.kaggle.com/rtatman/fraudulent-email-corpus/data)清洗與處理的操作
 - 電子信箱中的寄件機構資訊
 - 所有寄件者與收件者 姓名、地址、信件日期、信件主旨、信件內文 (dictionary--> list --> dataframe)
+
+## D5- D9 Tokenization (斷詞)
+### D5 HW
+### D6 HW
+### D7 HW
+### D8 HW
+### D9 HW
+
+
+## D10-11 Part of speech tagging (詞性標註)
+
+## D12-D17 Word Embedding (詞向量)
+
+## D18-28 Classic ML Models
