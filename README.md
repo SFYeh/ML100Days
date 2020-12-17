@@ -43,6 +43,8 @@ Python regex
 
 ## D5- D9 Tokenization (斷詞)
 ### D5 HW
+ProbabilitY　＆　Viterbi_tokenization
+
 ### D6 HW
 ### D7 HW
 ### D8 HW
